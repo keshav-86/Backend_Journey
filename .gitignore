@@ -1,3 +1,5 @@
 node_modules
 one\package.json
 two\package.json
+package-lock.json
+two\node_modules
